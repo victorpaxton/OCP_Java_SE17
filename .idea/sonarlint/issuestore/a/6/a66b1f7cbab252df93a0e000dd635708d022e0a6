@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö Ìš8ÚÏ±¹ž2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³Â…Ã8¶—´¹ž2
+]
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(“éÌ°8á—µ¹ž2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’þ½à8¼—´¹ž2
